@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131302035459",
+    "project_id": "drivesignindemo-411e9",
+    "storage_bucket": "drivesignindemo-411e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131302035459:android:e94242680fefd558dcfe36",
+        "android_client_info": {
+          "package_name": "com.example.googledrivesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131302035459-5m98jchp4ipm59hsl91rs9lis0cu8dh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGHq0dnoTSbkpb6STkuGa9-5B2tgDO4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131302035459-5m98jchp4ipm59hsl91rs9lis0cu8dh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
